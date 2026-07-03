@@ -3,7 +3,7 @@ About opentelemetry-instrumentation-click-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-click-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/open-telemetry/opentelemetry-python-contrib/instrumentation/opentelemetry-instrumentation-click
+Home: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/v0.64b0/instrumentation/opentelemetry-instrumentation-click
 
 Package license: Apache-2.0
 
