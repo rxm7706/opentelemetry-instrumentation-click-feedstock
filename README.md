@@ -3,11 +3,15 @@ About opentelemetry-instrumentation-click-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-click-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-click
+Home: https://github.com/open-telemetry/opentelemetry-python-contrib/instrumentation/opentelemetry-instrumentation-click
 
 Package license: Apache-2.0
 
 Summary: Click instrumentation for OpenTelemetry
+
+Development: https://github.com/open-telemetry/opentelemetry-python-contrib
+
+Click instrumentation for OpenTelemetry
 
 Current build status
 ====================
@@ -145,5 +149,6 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/opentelemetry-api](https://github.com/orgs/conda-forge/teams/opentelemetry-api/)
+* [@pb01ka](https://github.com/pb01ka/)
 * [@rxm7706](https://github.com/rxm7706/)
 
